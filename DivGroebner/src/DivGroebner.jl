@@ -1,5 +1,7 @@
-module DivGroebner
+module MyAwesomePackage
 
-greet() = print("Hello World!")
+export plusTwo
 
-end # module DivGroebner
+plusTwo(x) = return x+2
+
+end # end module
