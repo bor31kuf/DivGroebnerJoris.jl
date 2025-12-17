@@ -1,0 +1,14 @@
+name = "DivGroebner"
+uuid = "48c94934-c99a-4db2-8970-de948785c112"
+authors = ["joris "]
+version = "0.1.0"
+
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+Oscar = "f1435218-dba5-11e9-1e4d-f1a5fab5fc13"
+SIMD = "fdea26ae-647d-5447-a871-4b548cad5224"
+
+[compat]
+DataStructures = "0.19.3"
+Oscar = "1.6.0"
+SIMD = "3.7.2"
